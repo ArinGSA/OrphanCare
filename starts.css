@@ -1,0 +1,121 @@
+.login-admin {
+  background-color: #a39ff2;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login-admin .div {
+  background-color: #a39ff2;
+  width: 1920px;
+  height: 1080px;
+}
+
+.login-admin .rectangle {
+  width: 1207px;
+  height: 723px;
+  top: 178px;
+  /* left: 356px; */
+  border: 10px solid;
+  position: fixed;
+  background-color: #c3c0ff;
+  border-color: #ffffff;
+}
+
+.login-admin .rectangle-2 {
+  width: 1190px;
+  height: 705px;
+  top: 187px;
+  /* left: 365px; */
+  border: 2px solid;
+  position: fixed;
+  background-color: #c3c0ff;
+  border-color: #ffffff;
+  filter: blur(8px);
+  -webkit-filter: blur(5px);
+}
+
+
+
+.login-admin .group {
+  top: 611px;
+  position: fixed;
+  width: 214px;
+  height: 64px;
+  left: 854px;
+}
+
+.login-admin .overlap-group {
+  position: relative;
+  width: 212px;
+  height: 64px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.login-admin .text-wrapper {
+  position: absolute;
+  width: 132px;
+  top: 20px;
+  left: 38px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.login-admin .overlap-wrapper {
+  top: 755px;
+  position: fixed;
+  width: 214px;
+  height: 64px;
+  left: 854px;
+}
+
+.login-admin .text-wrapper-2 {
+  position: absolute;
+  width: 132px;
+  top: 21px;
+  left: 38px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+
+.login-admin .screenshot {
+  position: fixed;
+  width: 332px;
+  height: 248px;
+  top: 292px;
+  left: 23%;
+  object-fit: cover;
+}
+
+
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+
+ 
+
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
