@@ -1,0 +1,395 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1080px;
+}
+
+.home .group {
+  position: fixed;
+  width: 1382px;
+  height: 782px;
+  top: 185px;
+  left: 269px;
+}
+
+.home .overlap-group {
+  height: 306px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.home .group-wrapper {
+  position: absolute;
+  width: 1355px;
+  height: 306px;
+  top: 0;
+  left: 0;
+  background-color: #fafafa;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #8683c5;
+}
+
+.home .div-wrapper {
+  position: relative;
+  width: 504px;
+  height: 222px;
+  top: 72px;
+  left: 698px;
+}
+
+.home .group-2 {
+  position: relative;
+  width: 508px;
+  height: 222px;
+}
+
+.home .group-3 {
+  position: absolute;
+  width: 32px;
+  height: 142px;
+  top: 0;
+  left: 214px;
+}
+
+.home .text-wrapper {
+  position: absolute;
+  width: 24px;
+  top: 0;
+  left: 0;
+  color: #000000;
+  font-size: 22px;
+  line-height: 16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.home .text-wrapper-2 {
+  position: absolute;
+  width: 24px;
+  top: 40px;
+  left: 0;
+  color: #000000;
+  font-size: 22px;
+  line-height: 16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.home .text-wrapper-3 {
+  position: absolute;
+  width: 24px;
+  top: 84px;
+  left: 0;
+  color: #000000;
+  font-size: 22px;
+  line-height: 16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.home .text-wrapper-4 {
+  position: absolute;
+  width: 24px;
+  top: 120px;
+  left: 0;
+  color: #000000;
+  font-size: 22px;
+  line-height: 16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.home .flexcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: absolute;
+  width: 98px;
+  height: 216px;
+  top: 6px;
+  left: 0;
+}
+
+.home .text {
+  position: relative;
+  align-self: stretch;
+  color: #000000;
+  font-size: 22px;
+  line-height: 16px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.home .span {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 16px;
+}
+
+.home .flexcontainer-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: absolute;
+  width: 201px;
+  height: 136px;
+  top: 6px;
+  left: 303px;
+}
+
+.home .screenshot {
+  position: absolute;
+  width: 480px;
+  height: 238px;
+  top: 35px;
+  left: 45px;
+  object-fit: cover;
+}
+
+.home .rectangle {
+  position: fixed;
+  width: 1920px;
+  height: 148px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgb(195, 192, 255) 45.83%, rgba(203.77, 202.58, 233.75, 0) 100%);
+}
+
+.home .menu {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 82px;
+  left: 16px;
+  object-fit: cover;
+}
+
+.home .overlap-wrapper {
+  position: fixed;
+  width: 1859px;
+  height: 31px;
+  top: 80px;
+  left: 58px;
+}
+
+.home .overlap {
+  width: 1379px;
+  left: 212px;
+  height: 62px;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #b3b1db;
+  position: relative;
+  border-radius: 10px;
+}
+
+.home .text-wrapper-5 {
+  position: absolute;
+  width: 180px;
+  top: 13px;
+  left: 42px;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: normal;
+  white-space: nowrap;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.home .text-wrapper-6 {
+  position: absolute;
+  width: 1499px;
+  top: 13px;
+  left: 206px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #c0aeae;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.home .overlap-group-wrapper {
+  position: fixed;
+  width: 1382px;
+  height: 306px;
+  top: 643px;
+  left: 269px;
+}
+
+.home .group-4 {
+  position: relative;
+  width: 504px;
+  height: 222px;
+  top: 41px;
+  left: 690px;
+}
+
+.home .images {
+  position: absolute;
+  width: 479px;
+  height: 251px;
+  top: 27px;
+  left: 45px;
+  object-fit: cover;
+}
+
+/* CSS for the sliding menu */
+.menu-container {
+  position: fixed;
+  top: 0;
+  left: -250px; /* Start the menu off-screen */
+  width: 250px;
+  height: 100%;
+  background-color: #333;
+  transition: left 0.3s ease;
+  z-index: 999;
+}
+
+.menu-content {
+  padding: 20px;
+}
+
+.menu-content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu-content ul li {
+  margin-bottom: 10px;
+}
+
+.menu-content ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu-toggle {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  cursor: pointer;
+  z-index: 1000;
+}
+.custom-info1 {
+  background-color: #fafafa;
+  left: -552px;
+  position: relative;
+  border: 1px solid #fafafa;
+  font-size: 40px;
+  top: -20px;
+}
+
+.custom-info2 {
+ 
+  background-color: #ffffff;
+  padding: 10px;
+  border: 1px solid #ffffff;
+}
+
+.custom-info3 {
+ 
+  background-color: #ffffff;
+  padding: 10px;
+  border: 1px solid #ffffff;
+}
+
+.info-item {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+.info-label1 {
+  font-weight: bold;
+  margin-right: 32px;
+  font-size: 30px;
+  color: black;
+}
+
+.info-label2 {
+  font-weight: bold;
+  margin-right: 32px;
+  font-size: 30px;
+  top: 30px;
+  position: relative;
+  color: black;
+}
+
+
+.info-label3 {
+  font-weight: bold;
+  margin-right: 32px;
+  font-size: 30px;
+  left: 704px;
+  top: 38px;
+  position: relative;
+  color: black;
+}
+
+.info-label4 {
+  font-weight: bold;
+  margin-right: 32px;
+  font-size: 30px;
+  color:black;
+}
+
+
+
+
+.out1 {
+  font-weight: bold;
+  margin-right: 32px;
+  font-size: 50px;
+  top: -22px;
+  position: relative;
+  color: black;
+}
+.out2 {
+  font-weight: bold;
+  margin-right: 32px;
+  font-size: 30px;
+  top: 30px;
+  position: relative;
+  color: black;
+}
+
+.out3 {
+  font-weight: bold;
+  margin-right: 32px;
+  left: 669px;
+  top: 38px;
+  position: relative;
+  font-size: 23px;
+  color: black;
+}
+.out4 {
+  font-weight: bold;
+  margin-right: 32px;
+  font-size: 30px;
+  left: -14px;
+  top: -3px;
+  position: relative;
+  color: blue;
+}
