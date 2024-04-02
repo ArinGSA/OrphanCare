@@ -1,0 +1,311 @@
+.t-profile-edit {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.t-profile-edit .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+}
+
+.t-profile-edit .screenshot {
+  position: fixed;
+  width: 378px;
+  height: 250px;
+  top: 415px;
+  left: 771px;
+  object-fit: cover;
+}
+
+.t-profile-edit .group {
+  position: fixed;
+  width: 122px;
+  height: 48px;
+  top: 846px;
+  left: 899px;
+}
+
+.t-profile-edit .overlap-group-wrapper {
+  width: 124px;
+  height: 48px;
+}
+
+.t-profile-edit .overlap-group {
+  position: relative;
+  width: 122px;
+  height: 48px;
+  background-color: #8683c5;
+  border-radius: 5px;
+  top: -107px;
+}
+
+.t-profile-edit .text-wrapper {
+  position: absolute;
+  top: 7px;
+  left: 30px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.t-profile-edit .group-2 {
+  position: fixed;
+  width: 348px;
+  height: 353px;
+  top: 361px;
+  left: 1193px;
+}
+
+.t-profile-edit .group-3 {
+  position: absolute;
+  width: 350px;
+  height: 53px;
+  top: 300px;
+  left: 0;
+}
+
+.t-profile-edit .group-33 {
+  position: absolute;
+  width: 350px;
+  height: 53px;
+  top: 330px;
+  left: 109px;
+}
+
+
+
+.t-profile-edit .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.t-profile-edit .line {
+  top: 37px;
+  position: absolute;
+  width: 348px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.t-profile-edit .div-wrapper {
+  position: absolute;
+  width: 350px;
+  height: 280px;
+  top: 0;
+  left: 0;
+}
+
+.t-profile-edit .overlap-group-2 {
+  position: relative;
+  width: 348px;
+  height: 280px;
+}
+
+.t-profile-edit .group-4 {
+  position: absolute;
+  width: 348px;
+  height: 280px;
+  top: 0;
+  left: 0;
+}
+
+.t-profile-edit .group-5 {
+  position: absolute;
+  width: 352px;
+  height: 128px;
+  top: 152px;
+  left: 0;
+}
+
+.t-profile-edit .text-wrapper-3 {
+  position: absolute;
+  top: 79px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.t-profile-edit .img {
+  position: absolute;
+  width: 348px;
+  height: 1px;
+  top: 48px;
+  left: 0;
+  object-fit: cover;
+}
+
+.t-profile-edit .line-2 {
+  top: 127px;
+  position: absolute;
+  width: 348px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.t-profile-edit .group-6 {
+  position: absolute;
+  width: 350px;
+  height: 128px;
+  top: 0;
+  left: 0;
+}
+
+.t-profile-edit .text-wrapper-4 {
+  position: absolute;
+  top: 84px;
+  left: 17px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.t-profile-edit .group-7 {
+  position: fixed;
+  width: 348px;
+  height: 353px;
+  top: 57px;
+  left: 379px;
+}
+
+.t-profile-edit .category {
+  position: fixed;
+  width: 24px;
+  height: 24px;
+  top: 10763px;
+  left: 14631px;
+  object-fit: cover;
+}
+
+.t-profile-edit .rectangle {
+  top: 0;
+  background: linear-gradient(180deg, rgb(195, 192, 255) 45.83%, rgba(203.77, 202.58, 233.75, 0) 100%);
+  position: fixed;
+  width: 1920px;
+  height: 148px;
+  left: 0;
+}
+
+.t-profile-edit .rectangle-2 {
+  top: 932px;
+  background: linear-gradient(180deg, rgba(123.48, 118.89, 239.77, 0) 5.21%, rgb(194.19, 191.97, 250.4) 67.71%);
+  position: fixed;
+  width: 1920px;
+  height: 148px;
+  left: 0;
+}
+
+.t-profile-edit .user-wrapper {
+  position: fixed;
+  width: 150px;
+  height: 145px;
+  top: 204px;
+  left: 885px;
+  background-color: #ffffff;
+  border: none;
+
+}
+
+.t-profile-edit .user {
+  position: absolute;
+  width: 96px;
+  height: 126px;
+  top: 8px;
+  left: 26px;
+  object-fit: cover;
+}
+
+.t-profile-edit .text-wrapper-5 {
+  position: fixed;
+  top: 119px;
+  left: 906px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+
+
+
+
+.accordion {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+
+.accordion {
+  font-size: 20px; /* Adjust the font size */
+  width: 200px;   /* Adjust the width */
+  height: 60px;   /* Adjust the height */
+}
+
+
+.double-lined-rectangle {
+  width: 1500px;
+  height: 600px;
+  top: 270px;
+  left: 192px;
+  margin: 0 auto;
+  border: 2px solid #000;
+  border-style: double;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+  border-width: thick;
+  background-color: #fff;
+  overflow: hidden;
+  position: fixed;
+}
+
